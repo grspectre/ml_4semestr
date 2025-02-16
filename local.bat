@@ -1,0 +1,1 @@
+C:\work\source\python\ml_4semestr\venv\Scripts\jupyter-lab.exe
